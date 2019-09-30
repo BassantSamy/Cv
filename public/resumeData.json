@@ -1,0 +1,286 @@
+{
+
+  "main": {
+    "name":"Bassant Samy",
+    "occupation":"Student",
+    "description":"I am currently completing my Computer Engineering major and  Business Administration minor . I aim to find a professional work environment in which I can learn and contribute",
+    "image":"profile.jpg",
+    "bio":"I am a 20 year old student that cosiders herself to be fluent in most coding languages and interested in the field of Software Engineering and Web Development. I would describe myself as punctual, determined, and flexible.I also work great within a team and am very aware of my deadlines.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "bassantsamy@aucegypt.edu",
+    "phone": "01090488837",
+    "address":{
+      "street":"Fifth Settlement",
+      "city":"Egypt",
+      "state":"New Cairo",
+      "zip": ""
+    },
+    "resumedownload": "Cv.pdf" ,
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/bassant.samy.794",
+        "className":"fa fa-facebook"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/bassantsamy-hassansaad-55191b165/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/bassant.samyy/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/BassantSamy",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"American University in Cairo",
+        "degree":"Bachelor Degree",
+        "graduated":"2021",
+        "gpa" : "GPA: 3.827",
+        "description":"Relevant Coursework: Fundamentals of Cs, Programming Fundamentals (C++), Digital Design1, Digital Design2, Assembly Language, Software Engineering, Programming in Java, Digital Signal Processing, Analysis and Design of Algorithms, Data Structures and Algorithms, OS, Financial Accounting, Intro to Business, Engineering Economy, Fundamentals of Database Systems\n"
+      },
+      {
+        "school":"Al Bashaer International School",
+        "degree":"IGCSE Certificate",
+        "graduated":"2016",
+        "gpa": "Score: 142 ",
+        "description":""
+      }
+    ],
+    "extracurricular" : [
+      {
+        "title": "Player at AUC’s Track and Field Team (Eagles)",
+        "year":"(Fall 2019- " ,
+        "description":"Represent AUC in Track and Field which involves races, relays, javelin throws, long jumps, high jumps, and numerous other related activities. "
+      },
+      {
+        "title": "Projects Head at Enactus AUC ",
+        "year":"(2018)  " ,
+        "description":"Was responsible for member recruitment, interviews, and selection Perform weekly meetings and organize outings to motivate members\nProposed project ideas for national competition along with my members\nPlaned execution of project and studied ways to minimize costs with team\nProduced financial statements and project proposal forms\nImplemented actual project which involved rental of venue, purchase of supplies, and hiring of workers in project along with team\n"
+      },
+      {
+        "title": "Player at AUC’s American Football Team (Titans)",
+        "year":"(Spring 2017- Fall 2018)" ,
+        "description":"Position: Cornerback / Linebacker (defense) \nParticipated in EFAF football season and was the team representative\n "
+      },
+      {
+        "title": "Internal Communication Coordinator, AIESEC AUC ",
+        "year":"(Spring 2017)" ,
+        "description":"Motivated members using Facebook group and offline events\nDesigned several post templates and created them using Adobe Photoshop\nRecruited and dismissed members after monitoring their performance and performing analytics\n"
+      },
+      {
+        "title": "Organizing Committee Vice President for Marketing and Documentation, AIESEC AUC ",
+        "year":"(Spring 2017)" ,
+        "description":"Promoted offline campaigns and managed college relations\nDesigned T-shirts, notebooks, and other logistics using Adobe Photoshop\nInterviewed members and made sure they are up to standards \n "
+      },
+      {
+        "title": "Member at Model United Nations, AUC  ",
+        "year":"(2017)" ,
+        "description":"Coordinated sessions by managing logistics and delegating tasks to other members Monitored and escorted delegates during arrival and breaks  "
+      },
+      {
+        "title": "Middle Manager for Marketing, AIESEC AUC ",
+        "year":"(Fall 2016)" ,
+        "description":"Managed Team by preparing weekly meetings, organizing several outings, and making sure they are on track and motivated \nDesigned & printed flyers for campaigns using Adobe Photoshop\nLead and organized campaigns by setting up the booth, preparing logistics, performing campaign \neducation sessions, and monitoring applications \n"
+      },
+      {
+        "title": "One of the 4 main contestants in “El Abakera” TV-show, “El Kahera w El Nas”",
+        "year":"(2016)" ,
+        "description":"Represented my school in an IQ competition against 16 other schools "
+      }
+    ],
+    "work":[
+      {
+        "company":"The Center of Nanotechnology of AUC",
+        "title":"Web Developer",
+        "years":"Summer 2019 - Fall 2019",
+        "description":"Created a user-friendly interactive website that proposes ideal solutions to clients based of their needs while creating all the necessary pdf reports and financial statements, and created the necessary database using MySQL."
+      },
+      {
+        "company":"AUC",
+        "title":"Fundamentals of Cs Teacher’s Assistant",
+        "years":"Fall 2018",
+        "description":"Graded Assignments / had fixed office hours and lab sessions"
+      },
+      {
+        "company":"Al-Bashaer International School",
+        "title":"Mathematics and Arabic TA ",
+        "years":"2015 – 2016",
+        "description":"Explained and solved problems with students from past papers to prepare for IGCSE examination "
+      },
+      {
+        "company":"Ratio Centre for Education",
+        "title":"English Private Tutor ",
+        "years":"2014 – 2016",
+        "description":"Explained and practiced Grammar and writing to prepare students for IGCSE and TOEFL examinations "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Arabic",
+        "level":"100%"
+      },
+      {
+        "name":"English",
+        "level":"100%"
+      },
+      {
+        "name":"French",
+        "level":"20%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"85%"
+      },
+      {
+        "name":"C++, ",
+        "level":"95%"
+      },
+      {
+        "name":"MIPS, ",
+        "level":"70%"
+      },
+      {
+        "name":"Verilog, ",
+        "level":"80%"
+      },
+      {
+        "name":"Python, ",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript, ",
+        "level":"60%"
+      },
+      {
+        "name":"MATLAB, ",
+        "level":"50%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Cache Simulator",
+        "language":"Java",
+        "description":"  Designed a program that demonstrates and analyses different CPU/cache interactions "
+      },
+      {
+        "title":"Waveform Displayer",
+        "language":"JavaScript and HTML",
+        "description":"  Designed a program that displays on a webpage the varying waveforms of input and output variables "
+      },
+      {
+        "title":"Chicken Invaders",
+        "language":"C++ / SFML",
+        "description":"  Produced own graphical version of chicken invaders along with 2 team members "
+      },
+      {
+        "title":"Calculator",
+        "language":"Verilog",
+        "description":"  Designed a calculator that performs arithmetic operations on the user input and displays the output on a separate FPGA "
+      },
+      {
+        "title":"CPU Simulator",
+        "language":"Verilog",
+        "description":"  Designed a pipelined CPU model that supports compressed instructions and handles interrupts "
+      },
+      {
+        "title":"Digital Circuit Design",
+        "language":"Electric and LT spice",
+        "description":"  Designed multiple Digital Circuits (schematic and layout) "
+      },
+      {
+        "title":"RISK5 Compiler",
+        "language":"C++",
+        "description":"  Designed a program that executes basic RISK 5 instructions "
+      },
+      {
+        "title":"Battlefield",
+        "language":"Java",
+        "description":"  Simulated the game Battlefield (graphical)"
+      },
+      {
+        "title":"Audio Manipulation",
+        "language":"Python",
+        "description":"  Designed an application to speed up/slow down, remove noise, and eliminate echo from audio .wav files"
+      },
+      {
+        "title":"Linux VM",
+        "language":"C",
+        "description":"  Simulated a simple shell, and solved the “Sleeping TA” problem"
+      },
+      {
+        "title":"A* Router",
+        "language":"Java",
+        "description":"  Simulated a complex/multi-layered chip A* Router along with 2 team members "
+      },
+      {
+        "title":"A* Router",
+        "language":"Java",
+        "description":"  Simulated a complex/multi-layered chip A* Router along with 2 team members that displayes the disults using Java graphics"
+      },
+      {
+        "title":"Soukup’s Router",
+        "language":"C++",
+        "description":"  Simulated a simple chip Soukup Router"
+      },
+      {
+        "title":"File Compressor/Decompressor",
+        "language":"C++",
+        "description":"  Designed a program that compresses and decompresses files using a Huffman tree  "
+      },
+      {
+        "title":"Uber Website",
+        "language":"Node Js /SQL",
+        "description":"  Created an Uber like website with driver, rider, and admin view/ real ride simulation/ an associated database "
+      }
+
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"The pleasure and honour is all mine, you were committed and professional and one of the best interns that we had, you are welcome at the CND again anytime",
+        "user":"Ahmed Handoussa"
+      }
+    ]
+  }
+}
