@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"American University in Cairo",
@@ -107,7 +107,7 @@
     ],
     "work":[
       {
-        "company":"The Center of Nanotechnology of AUC",
+        "company":"The Center of Nano-electronics & Devices of AUC",
         "title":"Web Developer",
         "years":"Summer 2019 - Fall 2019",
         "description":"Created a user-friendly interactive website that proposes ideal solutions to clients based of their needs while creating all the necessary pdf reports and financial statements, and created the necessary database using MySQL."
