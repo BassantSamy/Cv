@@ -40,7 +40,7 @@
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"https://secure.skype.com/portal/overview",
         "className":"fa fa-skype"
       }
     ]
