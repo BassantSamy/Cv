@@ -50,10 +50,17 @@
     "education":[
       {
         "school":"American University in Cairo",
-        "degree":"Bachelor Degree",
-        "graduated":"2021",
-        "gpa" : "GPA: 3.827",
-        "description":"Relevant Coursework: Fundamentals of Cs, Programming Fundamentals (C++), Digital Design1, Digital Design2, Assembly Language, Software Engineering, Programming in Java, Digital Signal Processing, Analysis and Design of Algorithms, Data Structures and Algorithms, OS, Financial Accounting, Intro to Business, Engineering Economy, Fundamentals of Database Systems\n"
+        "degree":"Bachelor Degree in Computer Engineering",
+        "graduated":"2020",
+        "gpa" : "GPA: 3.832",
+        "description":"Relevant Coursework: Fundamentals of Cs, Programming Fundamentals (C++), Digital Design1, Digital Design2, Assembly Language, Software Engineering, Programming in Java, Digital Signal Processing, Analysis and Design of Algorithms, Data Structures and Algorithms, OS, Financial Accounting, Intro to Business, Engineering Economy, Fundamentals of Database Systems, Computer Networks, Distributed Systems\n"
+      },
+      {
+        "school":"American University in Cairo",
+        "degree":"Minor in Business Administration",
+        "graduated":"2020",
+        "gpa" : "GPA: 3.832",
+        "description":"Relevant Coursework: Introduction to Business, Financial Accounting\n"
       },
       {
         "school":"Al Bashaer International School",
@@ -271,8 +278,17 @@
         "title":"Uber Website",
         "language":"Node Js /SQL",
         "description":"  Created an Uber like website with driver, rider, and admin view/ real ride simulation/ an associated database "
+      },
+      {
+        "title":"Setup Multiple Networks using GNS3 and Wireshark",
+        "language":"",
+        "description":"  Set up multiple networks using GNS3 that included, ARP, ICMP, DHCP, Static Routing, RIP, OSPF, TCP, DNS, HTTP, EIGRP, and Telnet while verifying and examining captured packets using Wireshark  "
+      },
+      {
+        "title":"Image Sharing Platform",
+        "language":"C++",
+        "description":"  Used UNIX sockets and UDP to implement remote invocation middleware with peer-to-peer architecture, steganography-based image service, and added fault tolerance using C++  "
       }
-
     ]
   },
   "testimonials":{
