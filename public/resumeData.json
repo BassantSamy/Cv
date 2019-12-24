@@ -282,7 +282,7 @@
       {
         "title":"Setup Multiple Networks using GNS3 and Wireshark",
         "language":"",
-        "description":"  Set up multiple networks using GNS3 that included, ARP, ICMP, DHCP, Static Routing, RIP, OSPF, TCP, DNS, HTTP, EIGRP, and Telnet while verifying and examining captured packets using Wireshark  "
+        "description":"  Set up multiple networks using GNS3 that included ARP, ICMP, DHCP, Static Routing, RIP, OSPF, TCP, DNS, HTTP, EIGRP, and Telnet while verifying and examining captured packets using Wireshark  "
       },
       {
         "title":"Image Sharing Platform",
