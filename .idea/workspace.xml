@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68ce66a-4a2c-431e-8a39-60b3390e71d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resumeData.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/resumeData.json" afterDir="false" />
-    </list>
+    <list default="true" id="d68ce66a-4a2c-431e-8a39-60b3390e71d3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +81,7 @@
       <workItem from="1570052271387" duration="67000" />
       <workItem from="1570052568382" duration="438000" />
       <workItem from="1570142662588" duration="490000" />
-      <workItem from="1577225613878" duration="1380000" />
+      <workItem from="1577225613878" duration="1408000" />
     </task>
     <servers />
   </component>
