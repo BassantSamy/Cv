@@ -9,11 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68ce66a-4a2c-431e-8a39-60b3390e71d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/Cv.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resumeData.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/resumeData.json" afterDir="false" />
-    </list>
+    <list default="true" id="d68ce66a-4a2c-431e-8a39-60b3390e71d3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +82,16 @@
       <workItem from="1577230219336" duration="318000" />
       <workItem from="1577230766014" duration="49000" />
       <workItem from="1577230912743" duration="7000" />
-      <workItem from="1584049581110" duration="134000" />
+      <workItem from="1584049581110" duration="163000" />
     </task>
+    <task id="LOCAL-00001" summary="PHP">
+      <created>1584049747457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584049747457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PHP" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP" />
   </component>
 </project>
