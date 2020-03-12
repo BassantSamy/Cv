@@ -114,6 +114,12 @@
     ],
     "work":[
       {
+        "company":"AUC",
+        "title":"Computer Networks Lab Teaching Assistant ",
+        "years":"Spring 2020",
+        "description":"Helped during the lab sessions, and had fixed office hours"
+      },
+      {
         "company":"The Center of Nano-electronics & Devices of AUC",
         "title":"Web Developer",
         "years":"Summer 2019 - Fall 2019",
@@ -292,6 +298,11 @@
         "title":"Image Sharing Platform",
         "language":"C++",
         "description":"  Used UNIX sockets and UDP to implement remote invocation middleware with peer-to-peer architecture, steganography-based image service, and added fault tolerance using C++  "
+      },
+      {
+        "title":"Smart Alarm",
+        "language":"Java",
+        "description":"  collects traffic data using a maps API and sets alarms accordingly  "
       }
     ]
   },
