@@ -9,7 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68ce66a-4a2c-431e-8a39-60b3390e71d3" name="Default Changelist" comment="CN3">
+    <list default="true" id="d68ce66a-4a2c-431e-8a39-60b3390e71d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/Cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/Cv.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/resumeData.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/resumeData.json" afterDir="false" />
@@ -44,8 +45,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VRp9UE7GOP79tYBXTBWt4dJAld" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -88,7 +92,8 @@
       <workItem from="1577230912743" duration="7000" />
       <workItem from="1584049581110" duration="163000" />
       <workItem from="1584049943275" duration="22000" />
-      <workItem from="1584050468610" duration="642000" />
+      <workItem from="1584050468610" duration="708000" />
+      <workItem from="1591397219253" duration="1494000" />
     </task>
     <task id="LOCAL-00001" summary="PHP">
       <created>1584049747457</created>
@@ -125,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584050947002</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CN4">
+      <created>1584051129343</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584051129343</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,11 +157,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="PHP" />
     <MESSAGE value="TA" />
     <MESSAGE value="CN" />
     <MESSAGE value="CN2" />
     <MESSAGE value="CN3" />
-    <option name="LAST_COMMIT_MESSAGE" value="CN3" />
+    <MESSAGE value="CN4" />
+    <option name="LAST_COMMIT_MESSAGE" value="CN4" />
   </component>
 </project>
