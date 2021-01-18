@@ -3,9 +3,9 @@
   "main": {
     "name":"Bassant Samy",
     "occupation":"Computer Engineer",
-    "description":"I am currently completing my Computer Engineering major and  Business Administration minor . I aim to find a professional work environment in which I can learn and contribute",
+    "description":"I have completed my Computer Engineering major and  Business Administration minor . I aim to find a professional work environment in which I can learn and contribute",
     "image":"profile.jpg",
-    "bio":"I am a 20 year old student that considers herself to be fluent in most coding languages and interested in the field of Software Engineering and Web Development. I would describe myself as punctual, determined, and flexible.I also work great within a team and am very aware of my deadlines.",
+    "bio":"I am a 22 year old engineer that considers herself to be fluent in most coding languages and interested in the field of Computer Networks and Software Development. I would describe myself as punctual, determined, and flexible.I also work great within a team and am very aware of my deadlines.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "bassantsamy@aucegypt.edu",
     "phone": "01090488837",
@@ -40,7 +40,7 @@
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"https://join.skype.com/invite/gz7fSTQEPJ9X",
         "className":"fa fa-skype"
       }
     ]
@@ -50,10 +50,17 @@
     "education":[
       {
         "school":"American University in Cairo",
-        "degree":"Bachelor Degree",
-        "graduated":"2021",
-        "gpa" : "GPA: 3.827",
-        "description":"Relevant Coursework: Fundamentals of Cs, Programming Fundamentals (C++), Digital Design1, Digital Design2, Assembly Language, Software Engineering, Programming in Java, Digital Signal Processing, Analysis and Design of Algorithms, Data Structures and Algorithms, OS, Financial Accounting, Intro to Business, Engineering Economy, Fundamentals of Database Systems\n"
+        "degree":"Bachelor Degree in Computer Engineering",
+        "graduated":"2020",
+        "gpa" : "GPA: 3.841",
+        "description":"Relevant Coursework: Fundamentals of Cs, Programming Fundamentals (C++), Digital Design1, Digital Design2, Assembly Language, Software Engineering, Programming in Java, Digital Signal Processing, Analysis and Design of Algorithms, Data Structures and Algorithms, OS, Financial Accounting, Intro to Business, Engineering Economy, Fundamentals of Database Systems, Computer Networks, Distributed Systems, Mobile Applications, Embedded Systems, Internet of Things, Secure Systems Engineering, Thesis1\n"
+      },
+      {
+        "school":"American University in Cairo",
+        "degree":"Minor in Business Administration",
+        "graduated":"2020",
+        "gpa" : "GPA: 3.841",
+        "description":"Relevant Coursework: Introduction to Business, Financial Accounting, Business Finance\n"
       },
       {
         "school":"Al Bashaer International School",
@@ -90,11 +97,6 @@
         "description":"Promoted offline campaigns and managed college relations\nDesigned T-shirts, notebooks, and other logistics using Adobe Photoshop\nInterviewed members and made sure they are up to standards \n "
       },
       {
-        "title": "Member at Model United Nations, AUC  ",
-        "year":"(2017)" ,
-        "description":"Coordinated sessions by managing logistics and delegating tasks to other members Monitored and escorted delegates during arrival and breaks  "
-      },
-      {
         "title": "Middle Manager for Marketing, AIESEC AUC ",
         "year":"(Fall 2016)" ,
         "description":"Managed Team by preparing weekly meetings, organizing several outings, and making sure they are on track and motivated \nDesigned & printed flyers for campaigns using Adobe Photoshop\nLead and organized campaigns by setting up the booth, preparing logistics, performing campaign \neducation sessions, and monitoring applications \n"
@@ -106,6 +108,12 @@
       }
     ],
     "work":[
+      {
+        "company":"AUC",
+        "title":"Computer Networks Lab Teaching Assistant ",
+        "years":"Spring 2020",
+        "description":"Assisted students during the lab, and had fixed office hours"
+      },
       {
         "company":"The Center of Nano-electronics & Devices of AUC",
         "title":"Web Developer",
@@ -173,6 +181,10 @@
         "level":"95%"
       },
       {
+        "name":"C ",
+        "level":"98%"
+      },
+      {
         "name":"MIPS ",
         "level":"70%"
       },
@@ -191,6 +203,10 @@
       {
         "name":"MATLAB ",
         "level":"50%"
+      },
+      {
+        "name":"PHP ",
+        "level":"80%"
       }
 
     ]
@@ -271,8 +287,37 @@
         "title":"Uber Website",
         "language":"Node Js /SQL",
         "description":"  Created an Uber like website with driver, rider, and admin view/ real ride simulation/ an associated database "
+      },
+      {
+        "title":"Setup Multiple Networks using GNS3 and Wireshark",
+        "language":"",
+        "description":"  Set up multiple networks using GNS3 that included ARP, ICMP, DHCP, Static Routing, RIP, OSPF, TCP, DNS, HTTP, EIGRP, and Telnet while verifying and examining captured packets using Wireshark  "
+      },
+      {
+        "title":"Image Sharing Platform",
+        "language":"C++",
+        "description":"  Used UNIX sockets and UDP to implement remote invocation middleware with peer-to-peer architecture, steganography-based image service, and added fault tolerance using C++  "
+      },
+      {
+        "title":"Smart Alarm",
+        "language":"Java",
+        "description":"  collects traffic data using a maps API and sets alarms accordingly  "
+      },
+      {
+        "title":"Building Management System",
+        "language":"C",
+        "description":"  Simulated an IOT-based Building Management System using COOJA  "
+      },
+      {
+        "title":"Heart Monitor",
+        "language":"Python & C",
+        "description":"  Created an embedded application that runs on the STM32F103C8 microcontroller and interfaces with the AD8232 heart\nsensor in order to plot the heart signal and calculate the BPM  "
+      },
+      {
+        "title":"Senthetic Image Generator and Refiner",
+        "language":"Python, C & Javascript",
+        "description":"  Created a random scenario generator using Unity and fed output (synthetic domain) to trained GAN in order to refine it\ncreating dynamic datasets based on user’s demands (real domain)  "
       }
-
     ]
   },
   "testimonials":{
