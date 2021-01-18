@@ -5,7 +5,7 @@
     "occupation":"Computer Engineer",
     "description":"I am currently completing my Computer Engineering major and  Business Administration minor . I aim to find a professional work environment in which I can learn and contribute",
     "image":"profile.jpg",
-    "bio":"I am a 21 year old student that considers herself to be fluent in most coding languages and interested in the field of Computer Networks, and Software Development. I would describe myself as punctual, determined, and flexible.I also work great within a team and am very aware of my deadlines.",
+    "bio":"I am a 22 year old student that considers herself to be fluent in most coding languages and interested in the field of Computer Networks and Software Development. I would describe myself as punctual, determined, and flexible.I also work great within a team and am very aware of my deadlines.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "bassantsamy@aucegypt.edu",
     "phone": "01090488837",
@@ -52,14 +52,14 @@
         "school":"American University in Cairo",
         "degree":"Bachelor Degree in Computer Engineering",
         "graduated":"2020",
-        "gpa" : "GPA: 3.841",
-        "description":"Relevant Coursework: Fundamentals of Cs, Programming Fundamentals (C++), Digital Design1, Digital Design2, Assembly Language, Software Engineering, Programming in Java, Digital Signal Processing, Analysis and Design of Algorithms, Data Structures and Algorithms, OS, Financial Accounting, Intro to Business, Engineering Economy, Fundamentals of Database Systems, Computer Networks, Distributed Systems, Mobile Applications, Embedded Systems, Internet of Things, Secure Systems Engineering, Thesis1\n"
+        "gpa" : "GPA: 3.854",
+        "description":"Relevant Coursework: Fundamentals of Cs, Programming Fundamentals (C++), Digital Design1, Digital Design2, Assembly Language, Software Engineering, Programming in Java, Digital Signal Processing, Analysis and Design of Algorithms, Data Structures and Algorithms, OS, Financial Accounting, Intro to Business, Engineering Economy, Fundamentals of Database Systems, Computer Networks, Distributed Systems, Mobile Applications, Embedded Systems, Internet of Things, Secure Systems Engineering, Thesis1,Deep Learning, Thesis 2\n"
       },
       {
         "school":"American University in Cairo",
         "degree":"Minor in Business Administration",
         "graduated":"2020",
-        "gpa" : "GPA: 3.841",
+        "gpa" : "GPA: 3.854",
         "description":"Relevant Coursework: Introduction to Business, Financial Accounting, Business Finance\n"
       },
       {
@@ -110,6 +110,24 @@
     "work":[
       {
         "company":"AUC",
+        "title":"Computer’s Networks Teaching Assistant ",
+        "years":"Fall 2020",
+        "description":"Assisted students and had fixed office hours"
+      },
+      {
+        "company":"Vodafone Egypt",
+        "title":"Enterprise Marketing Intern  ",
+        "years":"Summer 2020",
+        "description":"Spoke to sales about new products such as SDWAN, did feasibility analysis on bundles and offers, came up with ways to market new products, and worked on promoting products on the website "
+      },
+      {
+        "company":"AUC",
+        "title":"Computer Architecture Teaching Assistant ",
+        "years":"Spring 2020",
+        "description":"Assisted students in course work and projects"
+      },
+      {
+        "company":"AUC",
         "title":"Computer Networks Lab Teaching Assistant ",
         "years":"Spring 2020",
         "description":"Assisted students during the lab, and had fixed office hours"
@@ -150,7 +168,7 @@
       },
       {
         "name":"French",
-        "level":"20%"
+        "level":"10%"
       },
       {
         "name":"ReactJs",
@@ -194,11 +212,11 @@
       },
       {
         "name":"Python ",
-        "level":"70%"
+        "level":"90%"
       },
       {
         "name":"JavaScript ",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"MATLAB ",
@@ -314,9 +332,14 @@
         "description":"  Created an embedded application that runs on the STM32F103C8 microcontroller and interfaces with the AD8232 heart\nsensor in order to plot the heart signal and calculate the BPM  "
       },
       {
+        "title":"NFL Player Position Predictor",
+        "language":"Python",
+        "description":"  Created a neural network that would predict the most suitable NFL player position   "
+      },
+      {
         "title":"Senthetic Image Generator and Refiner",
         "language":"Python, C & Javascript",
-        "description":"  Created a random scenario generator using Unity and fed output (synthetic domain) to trained GAN in order to refine it\ncreating dynamic datasets based on user’s demands (real domain)  "
+        "description":"  Created a “Synthetic Image Generator and Refiner” for my thesis project in partnership with Valeo that forms a 3D Unity model based on user specifications and feeds images from that model into a GAN trained for synthetic to real transformation to create a customizable dataset. It was deployed as a webservice as a microservice architecture  "
       }
     ]
   },
